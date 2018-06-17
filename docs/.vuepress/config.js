@@ -22,6 +22,7 @@ module.exports = {
       ]
     }
   },
+  base: '/vuepress-curriculum',
   markdown: {
     config: md => {
       md.use(require('markdown-it-footnote'))
