@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-curriculum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "src:dev": "vuepress dev src",
+    "scr:build": "vuepress build src"
+  },
+  "author": "David MacDonald",
+  "license": "SEE LICENSE IN LICENSE.MD",
+  "devDependencies": {
+    "markdown-it-footnote": "^3.0.1",
+    "vuepress": "^0.10.1"
+  }
+}
