@@ -1,6 +1,8 @@
-Title: Unit 3 - Rhythm and Meter
+---
+title: 'Unit 3: Rhythm and Meter'
+---
 
-Readings are provided in the **Files** section of Webcourses or linked on external sites. I've compiled the unit's listening into a single Spotify playlist where possible. You may also use other recordings if you wish. Scores are linked or available on Webcourses where possible.
+Readings are provided in the **Files** section of the course site or linked on external sites. I've compiled the unit's listening into a single Spotify playlist where possible. You may also use other recordings if you wish. Scores are linked or available on the course site where possible.
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Adavemacdo%3Aplaylist%3A7L10f7ZNrXZ5D3OVa3LeoO" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
 
@@ -33,7 +35,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 - Reading and Homework (before class)
 	- Tempo Modulation Practice
 - Listening (in class)
-	- Tempo Modulation Practice 
+	- Tempo Modulation Practice
 
 ## Individual Meetings
 

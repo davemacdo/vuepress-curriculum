@@ -1,4 +1,6 @@
-# Composition Project: Motivic Development
+---
+title: 'Composition Project: Motivic Development'
+---
 
 ## Overview
 
@@ -18,5 +20,9 @@ Each of these is required. Submit all digital files via Webcourses. Bring paper 
     * Reflection: A brief written description of the motives you used and how you used them (100-200 words).
 * **Paper submission**:
     * hard copy of the score and parts for reading. *Performance materials should be clean, clear, and professional. If you aren't sure what your score or parts should look like, compare them to scores and parts from a major publisher.*
+
+## Grading
+
+Please review the Composition Project Rubric in the Pages tab of Webcourses.
 
 [^length]: Pieces with slower tempos and rhythms should be at the longer end of this range. Pieces with faster tempos and rhythms may be closer to one minute.

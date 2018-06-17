@@ -5,13 +5,29 @@ module.exports = {
   themeConfig: {
     sidebar: {
       '/comp-1/': [
-        '',
+        ['', 'Welcome'],
         {
-          title: 'Unit 1 - Tonality',
+          title: 'Tonality',
           collapsible: true,
           children: [
-            'unit-1/unit-1-overview',
+            ['unit-1/unit-1-overview', 'Overview'],
             'unit-1/tonality-composition'
+          ]
+        },
+        {
+          title: 'Motivic Development',
+          collapsible: true,
+          children: [
+            ['unit-2/unit-2-overview', 'Overview'],
+            'unit-2/motivic-development-composition'
+          ]
+        },
+        {
+          title: 'Rhythm and Meter',
+          collapsible: true,
+          children: [
+            ['unit-3/unit-3-overview', 'Overview'],
+            'unit-3/rhythm-and-meter-composition'
           ]
         }
       ],

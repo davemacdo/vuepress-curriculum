@@ -1,4 +1,6 @@
-# Composition: Rhythm and Meter
+---
+title: 'Composition: Rhythm and Meter'
+---
 
 ## Overview
 
