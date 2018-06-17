@@ -6,6 +6,7 @@ module.exports = {
     sidebar: {
       '/comp-1/': [
         ['', 'Welcome'],
+        ['muc1101c-syllabus', 'Syllabus'],
         {
           title: 'Tonality',
           collapsible: true,
@@ -41,7 +42,9 @@ module.exports = {
   base: '/vuepress-curriculum/',
   markdown: {
     config: md => {
-      md.use(require('markdown-it-footnote'))
+      md.use(require('markdown-it-footnote')),
+      md.use(require('markdown-it-include')),
+      md.use(require('markdown-it-multimd-table'))
     }
   }
 }

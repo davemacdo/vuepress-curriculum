@@ -12,6 +12,8 @@
   "license": "SEE LICENSE IN LICENSE.MD",
   "devDependencies": {
     "markdown-it-footnote": "^3.0.1",
+    "markdown-it-include": "^1.0.0",
+    "markdown-it-multimd-table": "^3.1.2",
     "vuepress": "^0.10.1"
   }
 }
