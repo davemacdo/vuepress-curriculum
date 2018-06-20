@@ -1,3 +1,8 @@
+---
+title: 'MUC 1101C: Music Composition I Syllabus'
+pageClass: hide-title
+---
+
 # MUC 1101C: Music Composition I Syllabus
 
 <span style="color:red; font-size: 1.5em;">Updated 22 Sep to reflect Hurricane Irma schedule changes</span>
