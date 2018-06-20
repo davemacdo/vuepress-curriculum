@@ -26,11 +26,11 @@ Be prepared to present your melodies in class either at the piano or on your own
 
 ## Rubric
 
-### Scales
+### Scales (2 points)
 
 - 2: Four scales (one of which is invented).
 
-### Melody
+### Melody (3 points)
 
 - 3: Melody presented using four scales. Each transformation reflects its scale clearly.
 - 2: Melody presented using four scales. One or more transformations obscures features of the scale.
