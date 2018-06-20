@@ -2,8 +2,6 @@
 title: 'Unit 1: Tonality'
 ---
 
-# {{ $page.title }}
-
 Readings are provided in the **Files** section of course site or linked on external sites. I've compiled the unit's listening into a single Spotify playlist. You may also use other recordings if you wish.
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Adavemacdo%3Aplaylist%3A69rybvDfIcNV7aLoitEJap" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>

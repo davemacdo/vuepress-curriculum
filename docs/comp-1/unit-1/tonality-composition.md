@@ -1,4 +1,6 @@
-# Composition: Tonality
+---
+title: 'Composition: Tonality'
+---
 
 ## Overview
 
