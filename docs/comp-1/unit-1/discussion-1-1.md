@@ -1,4 +1,6 @@
-# Discussion: Listening to Music
+---
+title: 'Discussion: Listening to Music'
+---
 
 Read the excerpt from Aaron Copland's _What to Listen for in Music_. Copland is writing primarily for a "lay" audience of non-musicians; but, there is still plenty there for us as composers.
 
@@ -10,7 +12,7 @@ Write a post on this discussion board in response to the article. Your post shou
 - how listening on different planes impacts your understanding or intellectual engagement
 - when and where different kinds of listening might exist in your life
 
-Once you've made your post, consider responding to a classmates post. Do so substantively in a way that contributes to the conversation. Just saying "Nice post!" is friendly but doesn't do much to enrich the discussion. Come to class prepared to discuss the contents of the essay and your post. Keep this essay in mind when listening to music for this class!
+Once you've made your post, consider responding to a classmate's post. Do so substantively in a way that contributes to the conversation. Just saying "Nice post!" is friendly but doesn't do much to enrich the discussion. Come to class prepared to discuss the contents of the essay and your post. Keep this essay in mind when listening to music for this class!
 
 | Rubric ||
 | :---: | --- |

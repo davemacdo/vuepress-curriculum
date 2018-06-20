@@ -1,3 +1,7 @@
+---
+title: Tonality practice
+---
+
 In this assignment, you will practice writing the same melodic ideas using different scales. Note what makes each scale distinctive and focus on those things.
 
 ## Part 1: Scales
@@ -19,3 +23,14 @@ Our next assignment will be to take these melodic ideas and string them together
     - Four variations of your melody, one for each scale.
 
 Be prepared to present your melodies in class either at the piano or on your own instrument.
+
+## Rubric
+
+### Scales
+
+- 2: Four scales (one of which is invented).
+
+### Melody
+
+- 3: Melody presented using four scales. Each transformation reflects its scale clearly.
+- 2: Melody presented using four scales. One or more transformations obscures features of the scale.

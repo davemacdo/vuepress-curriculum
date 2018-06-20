@@ -1,3 +1,7 @@
+---
+title: Tonality étude
+---
+
 This assignment builds on your previous assignment. You will take the melodic forms your created and assemble them into a short piece of music. 
 
 ## Étude
@@ -19,5 +23,17 @@ Compose a brief, unaccompanied solo étude[^solo] for _your own instrument_, 25�
     - Your complete étude score.
 
 Bring your instrument to class to present your work! These don't need to be fully realized performances; we're just reading for one another. No pressure.
+
+## Rubric
+
+### Étude
+
+- 4: The étude presents two or more versions of the melody and establishes a tonal center while avoiding functional harmony.
+- 3: The étude presents two or more versions of the melody, but does not establish a tonal center or relies too heavily on functional harmony.
+
+### Score
+
+- 1: The score is clear and readable. It includes all the information needed to realize the music, including dynamics and articulations. 
+- 0: The score may be missing some information, or may be somewhat difficult to read.
 
 [^solo]: In order to focus on melody, pianists and guitarists should focus on a solo line. Treat your instrument as a violin or cello, similar to a one-hand piano work. Vocalists should plan to sing their work as a vocalise (without text).

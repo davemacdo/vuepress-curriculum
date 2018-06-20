@@ -12,6 +12,9 @@ module.exports = {
           collapsible: true,
           children: [
             ['unit-1/unit-1-overview', 'Overview'],
+            'unit-1/discussion-1-1',
+            'unit-1/tonality-practice',
+            'unit-1/tonality-etude',
             'unit-1/tonality-composition'
           ]
         },
