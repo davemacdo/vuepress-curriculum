@@ -1,5 +1,6 @@
 <template>
   <div class="page">
+    <h1 class="page-title-added">{{ $page.title }}</h1>
     <Content :custom="false"/>
     <div class="page-edit">
       <div class="edit-link" v-if="editLink">
