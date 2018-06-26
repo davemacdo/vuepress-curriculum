@@ -1,4 +1,4 @@
-Title: Paper to PDF
+# Paper to PDF
 
 Any composer today is expected to be able to produce professional-looking performance materials on their own. Thanks to Sibelius, Finale, and other scoring applications, this is easier than ever before. Despite this, I strongly encourage young composers to begin all of their composition projects on paper for several important reasons.
 

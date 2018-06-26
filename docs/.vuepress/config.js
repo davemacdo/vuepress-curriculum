@@ -33,6 +33,16 @@ module.exports = {
             ['unit-3/unit-3-overview', 'Overview'],
             'unit-3/rhythm-and-meter-composition'
           ]
+        },
+        {
+          title: 'Appendix: Reference',
+          collapsible: true,
+          children: [
+            ['ref/composition-project-rubric', 'Composition Project Rubric'],
+            'ref/lesson-assignment',
+            'ref/paper-to-pdf',
+            'ref/performance-attendance'
+          ]
         }
       ],
       // fallback
