@@ -6,11 +6,17 @@ h1.page-title-added
 .content:not(.custom) > *:first-child
     margin-top: auto
 
+.content:not(.custom)
+  margin-top: -2rem
+
 h1, h2, h3, h4, h5, h6
   .content:not(.custom) > &
     &:first-child
-      margin-top -5.5rem
+      margin-top -8.5rem
       margin-bottom 1rem
 
 .hide-title .content h1:first-child
   display none
+
+.hide-title .content:not(.custom)
+  margin-top -4rem
