@@ -5,8 +5,6 @@ pageClass: hide-title
 
 # MUC 1101C: Music Composition I Syllabus
 
-<span style="color:red; font-size: 1.5em;">Updated 22 Sep to reflect Hurricane Irma schedule changes</span>
-
 Instructor: Dr. David MacDonald  
 Email: David.MacDonald@ucf.edu  
 Class Meetings: M/W, 10:30-11:20am  
