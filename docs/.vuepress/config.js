@@ -45,9 +45,13 @@ module.exports = {
   base: '/vuepress-curriculum/',
   markdown: {
     config: md => {
+      md.set({
+        typographer: true,
+        linkify: true
+      }),
       md.use(require('markdown-it-footnote')),
       md.use(require('markdown-it-include')),
       md.use(require('markdown-it-multimd-table'))
-    }
+    }, 
   }
 }
