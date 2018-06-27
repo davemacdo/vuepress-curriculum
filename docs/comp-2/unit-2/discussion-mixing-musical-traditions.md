@@ -1,4 +1,6 @@
-Title: Discussion: Mixing Traditions
+---
+title: "Discussion: Mixing Traditions"
+---
 
 At a very high level, scholars often group musical practice into three broad traditions based on the goals and circumstances of the practitioners:
 

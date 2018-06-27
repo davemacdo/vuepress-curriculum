@@ -1,4 +1,6 @@
-Title: Dynamic synthesizer
+---
+title: Dynamic synthesizer
+---
 
 Create a Pd patch that makes a continuous sound that incorporates multiple synthesis objects (such as `osc~`). The sound should last a minimum of ten seconds, but may run indefinitely.  Try to make the sound change over time, such as a drone that shifts in timbre or pitch. You may use any objects we have studied in class or that you discover on your own. 
 

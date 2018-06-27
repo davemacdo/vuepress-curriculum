@@ -1,4 +1,6 @@
-Title: Unit 1 - Extended Techniques and Unconventional notation
+---
+	title: "Unit 1: Extended Techniques and Unconventional Notation"
+---
 
 Readings are provided in the **Files** section of Webcourses or linked on external sites. I've compiled the unit's listening into a single Spotify playlist. You may also use other recordings if you wish.
 
@@ -11,6 +13,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 - Listening (in class)
 	- George Crumb: _Black Angels_ (1970)
 	- Henry Cowell: _The Banshee_ (1925) and _Aeolian Harp_ (1931)
+	- Kate Soper: _Only the Words Themselves Mean What They Say_ (2010)
 	- [YouTube playlist](https://www.youtube.com/playlist?list=PL9O2Vx6Aqkd4y6k_r69NKFHWUEAwH7-Cg)
 
 ## Wednesday, 10 January

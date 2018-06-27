@@ -1,4 +1,6 @@
-# Composition: Popular or Folk Influence
+---
+title: "Composition Project: Mixing Traditions"
+---
 
 ## Overview
 

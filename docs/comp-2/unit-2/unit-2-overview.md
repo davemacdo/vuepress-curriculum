@@ -1,4 +1,6 @@
-Title: Unit 2 - Mixing Traditions
+---
+title: "Unit 2: Mixing Traditions"
+---
 
 This unit we will focus music which connects the concert music tradition to popular and folk music.
 

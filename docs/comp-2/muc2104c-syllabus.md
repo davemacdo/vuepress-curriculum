@@ -1,17 +1,20 @@
+---
+title: '2104C: Music Composition II Syllabus'
+pageClass: hide-title
+---
+
 # MUC 2104C: Music Composition II Syllabus
 
-## University of Central Florida School of Performing Arts
-
-Instructor: Dr. David MacDonald
-Email: David.MacDonald@ucf.edu
-Class Meetings: M/W, 10:30-11:20am
-Office: PAC M230
-Office Hours: Mon/Tue 1:30-3:30pm; Tue/Thu 9:00-10:00am
-Term: Spring 2018
+Instructor: Dr. David MacDonald  
+Email: David.MacDonald@ucf.edu  
+Class Meetings: M/W, 10:30-11:20am  
+Office: PAC M230  
+Office Hours: Mon/Tue 1:30-3:30pm; Tue/Thu 9:00-10:00am  
+Term: Spring 2018  
 
 #### Description
 
-The course builds on skills and techniques of music composition first introduced in MUC1101C, exploring some of the most fundamental concepts in composing original and creative concert music. Students will listen to contemporary concert music, practice writing short études, and present three short, original compositions over the course of the semester. An additional focus of the course is to prepare students to apply to upper-division composition studies.
+The course builds on skills and techniques of music composition first introduced in Composition 1, exploring some of the most fundamental concepts in composing original and creative concert music. Students will listen to contemporary concert music, practice writing short études, and present three short, original compositions over the course of the semester. An additional focus of the course is to prepare students to apply to upper-division composition studies.
 
 #### Objectives
 
@@ -102,8 +105,10 @@ Please be sure to check Webcourses notifications as well as your UCF email addre
 
 All faculty members are required to document students' academic activity at the beginning of each course. In order to document that you began this course, please complete the discussion assignment on Webcourses by the end of the day (11:59pm) on Friday of week 1. Failure to do so will result in a delay in the disbursement of your financial aid.
 
-{{../inc/policies.md}}
+!!!include(inc/policies.md)!!!
 
-{{../inc/grade_scale.md}}
+## Grade Scale
+
+!!!include(inc/grade_scale.md)!!!
 
 **This syllabus is subject to change. All students will be notified promptly when a change is made.**

@@ -1,3 +1,7 @@
+---
+title: Extended Technique Demonstration
+---
+
 Consider your primary instrument. Think about all the cool and wild and strange sounds it can make that are not the way you were taught to play by your teachers. Anything goes, as long as it doesn't harm you, your audience, or your instrument. (In some music, [even _that_ is negotiable!](https://en.wikipedia.org/wiki/Danger_music))
 
 ## Part 1: Techniques
@@ -19,3 +23,13 @@ Come to class with your instrument and give a _brief_ 5-minute demonstration of 
 - **Demonstration**
 
 Bring your instrument to class to present your work!
+
+## Rubric
+
+### Written material (3 points, pass/fail)
+
+Clear written examples of three to five extended techniques on the composer's primary instrument.
+
+### Demonstration (2 points, pass/fail) 
+
+Techniques were clearly demonstrated in class.

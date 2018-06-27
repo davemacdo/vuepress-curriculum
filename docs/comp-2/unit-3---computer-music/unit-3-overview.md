@@ -1,4 +1,6 @@
-Title: Unit 3 - Introduction to Computer Music
+---
+title: "Unit 3: Introduction to Computer Music"
+---
 
 This unit we will explore using Pure Data as a platform for creating music. This may require a fair amount of experimentation, trial, and error. There are some resources linked below which you may find helpful.
 
@@ -8,7 +10,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 
 [direct link](https://open.spotify.com/user/davemacdo/playlist/0ioSmq4zSkfBC9lZlKv8mi?si=CRaq5DHJTXiMxAOqUZL2Fw)
 
-[class downloads](https://github.com/davemacdo/Pure-Data-intro-lectures)
+Lectures for this unit are more than usually technical, so I've put together my [lecture outlines and example files here](https://davemacdo.github.io/Pure-Data-intro-lectures/). This will be updated as the unit progresses. You may wish to bookmark it for future reference. 
 
 ## Monday, 26 March
 

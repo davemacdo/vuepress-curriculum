@@ -1,4 +1,6 @@
-# Composition: Extended Techniques and Unconventional Notation
+---
+title: "Composition Project: Extended Techniques and Unconventional Notation"
+---
 
 ## Overview
 

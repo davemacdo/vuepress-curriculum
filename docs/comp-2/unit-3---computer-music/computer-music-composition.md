@@ -1,4 +1,6 @@
-Title: Composition: Computer Music
+---
+title: "Composition Project: Computer Music"
+---
 
 ## Overview
 

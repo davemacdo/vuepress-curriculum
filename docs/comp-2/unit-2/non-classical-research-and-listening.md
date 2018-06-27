@@ -1,4 +1,6 @@
-Title: Non-classical Research and Listening
+---
+title: Non-classical Research and Listening
+---
 
 Gunther Schuller (1925 - 2015) created the term "the Third Stream" in a 1957 lecture to describe music that was neither jazz nor classical music. As a performer, Schuller had played horn in the New York Metropolitan Opera orchestra _and_ with Miles Davis's "Birth of the Cool" nonet! The Third Stream was his way of thinking about a new kind of music that was neither jazz nor classical, but combined elements of each.
 
@@ -18,3 +20,16 @@ Consider a piece that you might write for piano alone or with another instrument
 	- list of elements from your model that you will use (one or more)
 	- list of elements from the classical tradition that you will use (two or more)
 - **Class presentation:** We may not get to everyone, but be prepared to play part of your model recording in class and talk about the musical elements you identified.
+
+## Rubric
+
+### Link and description (2 points)
+
+- 2: The link works and description is clear.
+- 0: The link or description are unclear. 
+
+### Listening and planning (3 points)
+
+- 3: Elements identified from the model are clear and separate from Western tradition. Elements from outside the model are clear. 
+- 2: Elements are identified, but may not be clear, or may not be distinct to either the model or the Western tradition. 
+- 0: Elements are poorly identified or difficult to understand. 

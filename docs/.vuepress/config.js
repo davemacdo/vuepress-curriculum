@@ -5,7 +5,7 @@ module.exports = {
   themeConfig: {
     sidebar: {
       '/comp-1/': [
-        ['', 'Welcome'],
+        ['', 'Composition 1'],
         ['muc1101c-syllabus', 'Syllabus'],
         {
           title: 'Tonality',
@@ -51,11 +51,57 @@ module.exports = {
             'ref/performance-attendance'
           ]
         }
+      ], // -- comp-1
+      '/comp-2/': [
+        ['', 'Composition 2'],
+        ['muc2104c-syllabus', 'Syllabus'],
+        {
+          title: 'Extended Techniques and Unconventional Notation',
+          collapsible: true,
+          children: [
+            ['unit-1/unit-1-overview', 'Overview'],
+            'unit-1/notation-experiment',
+            'unit-1/extended-technique-demonstration',
+            'unit-1/extended-technique-composition'
+          ]
+        },
+        {
+          title: 'Mixing Traditions',
+          collapsible: true,
+          children: [
+            ['unit-2/unit-2-overview', 'Overview'],
+            'unit-2/discussion-mixing-musical-traditions',
+            'unit-2/non-classical-research-and-listening',
+            'unit-2/third-stream',
+            'unit-2/mixing-traditions-composition'
+          ]
+        },
+        {
+          title: 'Computer Music',
+          collapsible: true,
+          children: [
+            ['unit-3---computer-music/unit-3-overview', 'Overview'],
+            'unit-3---computer-music/dynamic-synthesizer',
+            'unit-3---computer-music/in-class-workshop',
+            'unit-3---computer-music/computer-music-composition'
+          ]
+        },
+        {
+          title: 'Appendix: Reference',
+          collapsible: true,
+          children: [
+            ['ref/composition-project-rubric', 'Composition Project Rubric'],
+            'ref/lesson-assignment',
+            'ref/paper-to-pdf',
+            'ref/performance-attendance'
+          ]
+        }
       ],
       // fallback
       '/': [
         ['', 'Introduction'],
-        ['comp-1/', 'Composition 1']
+        ['comp-1/', 'Composition 1 Class'],
+        ['comp-2/', 'Composition 2 Class']
       ]
     }
   },
