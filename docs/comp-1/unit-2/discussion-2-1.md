@@ -1,3 +1,8 @@
+---
+title: 'Discussion: Motive'
+pageClass: hide-title
+---
+
 # Discussion: Motive
 
 Read the excerpt on motives from Arnold Schoenberg's _Fundamentals of Musical Composition_. Pay close attention to his musical examples as well.

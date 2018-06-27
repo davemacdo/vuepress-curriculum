@@ -1,4 +1,6 @@
-# Motive Practice 1
+---
+title: Motive Practice 1
+---
 
 ## Melodic motives
 
@@ -14,3 +16,10 @@ Remember that the motive needs to be simple, yet distinctive. A scale or arpeggi
 	- If you write on paper, you can scan your work on a smartphone and submit a PDF.
 
 Come to class prepared to dissect and analyze your motives. Think about what makes each one distinctive and how you could transform it.
+
+## Rubric
+
+- 5: Four motives were presented clearly and met the minimum requirements. The motives were distinct and recognizable.
+- 4: Four motives were presented clearly and met the minimum requirements. One or more motives lacked musical clarity.
+- 2: Motives were presented, but fewer than four met the assignment guidelines. The writing was unclear or difficult to understand. 
+- 0: No motives were presented that met the assignment guidelines. The submitted document was difficult to understand.

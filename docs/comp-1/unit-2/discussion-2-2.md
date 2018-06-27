@@ -1,3 +1,8 @@
+---
+title: "Discussion: John Cage and 4'33\""
+pageClass: hide-title
+---
+
 # Discussion: John Cage and _4\'33\"_
 
 Read the excerpt from _No Such Thing As Silence_, a book by composer and former _Village Voice_ music critic Kyle Gann.

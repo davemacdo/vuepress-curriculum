@@ -23,6 +23,10 @@ module.exports = {
           collapsible: true,
           children: [
             ['unit-2/unit-2-overview', 'Overview'],
+            'unit-2/discussion-2-1',
+            'unit-2/discussion-2-2',
+            'unit-2/motive-practice-1',
+            'unit-2/motive-practice-2',
             'unit-2/motivic-development-composition'
           ]
         },
