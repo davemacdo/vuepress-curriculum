@@ -35,6 +35,9 @@ module.exports = {
           collapsible: true,
           children: [
             ['unit-3/unit-3-overview', 'Overview'],
+            'unit-3/discussion-3-1',
+            'unit-3/tempo-modulation-practice',
+            'unit-3/rhythmic-motive-and-etude',
             'unit-3/rhythm-and-meter-composition'
           ]
         },
