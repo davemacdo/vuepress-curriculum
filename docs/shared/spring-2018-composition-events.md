@@ -1,3 +1,8 @@
+---
+title: Upcoming Composition Events
+pageClass: hide-title
+---
+
 # Upcoming Composition Events
 
 Events are free unless otherwise noted.

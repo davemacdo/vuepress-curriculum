@@ -1,3 +1,8 @@
+---
+title: Composition Forum Guide
+pageClass: hide-title
+---
+
 # Composition Forum Guide
 
 ## Overview

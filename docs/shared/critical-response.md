@@ -1,6 +1,9 @@
-# Critical Response Process
+---
+title: Critical Response Process
+pageClass: hide-title
+---
 
-## UCF Composition
+# Critical Response Process
 
 If you have ever made something and presented it to an audience, you’ve probably had the horrible experience afterward of being told how great it was. To some, I’m sure that sounds dumb. Being told that you’re great shouldn’t be horrible. Unless, of course, you were hoping to learn something about how the audience perceives the things you make. Remember, we don’t have feedback sessions for fun, even though they can be lots of fun. We have them for their utility: to learn to make stuff better and, in doing so, make better stuff.
 

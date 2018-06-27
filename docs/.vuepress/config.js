@@ -116,6 +116,7 @@ module.exports = {
           children: [
             'program-notes',
             ['senior-recital-guide', 'Senior Recital Guide'],
+            '../shared/critical-response'
           ]
         }
       ], // comp-lessons
@@ -124,7 +125,17 @@ module.exports = {
         ['', 'Introduction'],
         ['comp-1/', 'Composition 1 Class'],
         ['comp-2/', 'Composition 2 Class'],
-        ['comp-lessons/', 'Composition Lessons']
+        ['comp-lessons/', 'Composition Lessons'],
+        {
+          title: 'Resources',
+          collapsible: true,
+          children: [
+            'shared/spring-2018-composition-events',
+            'shared/composition-forum-guide',
+            'shared/critical-response',
+            'shared/resources-for-composers'
+          ]
+        }
       ]
     }
   },
