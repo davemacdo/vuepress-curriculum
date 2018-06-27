@@ -1,4 +1,6 @@
-# Listening Assignment
+---
+title: Listening Assignment
+---
 
 ## Introduction
 
@@ -31,4 +33,4 @@ Posts are due on Sunday evenings.
 
 ## Listening Schedule
 
-{{listening-sched/2018-01.md}}
+!!!include(docs/comp-lessons/listening-sched/2018-01.md)!!!

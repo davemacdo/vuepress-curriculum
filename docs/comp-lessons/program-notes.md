@@ -1,4 +1,7 @@
-Title: Writing Program Notes
+---
+title: Writing Program Notes
+pageClass: hide-title
+---
 
 Program notes are challenging for everyone. There are lots of reasons you might struggle to write them. 
 

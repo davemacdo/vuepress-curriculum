@@ -1,4 +1,9 @@
-# UCF Composition Senior Recital Guide
+---
+title: Senior Composition Recital Guide
+pageClass: hide-title
+---
+
+# Senior Composition Recital Guide
 
 ## Program requirements
 

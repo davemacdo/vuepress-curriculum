@@ -1,4 +1,6 @@
-# UCF Composition Rubrics
+---
+title: Composition Lesson Rubrics
+---
 
 ## Composition Goals
 
@@ -9,7 +11,7 @@ This assignment is graded for completion (pass/fail).
 Each weekly lesson will be given a grade from **zero** to **five**. Students will have fourteen lessons per semester.
 
 | Lesson Grade  ||
-| :----------:  |
+| :----------:  | --- |
 | 5 | The composer has made significant progress on the current piece, working toward previously established goals. Furthermore, the composer justifies creative decisions and has considered future plans for continuing and finishing the work. |
 | 4 | The composer has made some progress, but not has not moved the current piece significantly closer to completion. Creative reasoning seems unclear or incomplete. |
 | 3 | The composer has made only moderate progress on the current piece.  |
@@ -22,7 +24,7 @@ Each weekly lesson will be given a grade from **zero** to **five**. Students wil
 Each weekly listening discussion will be given a grade from **zero** to **five**. There are fourteen discussions per semester.
 
 | Discussion Grade  ||
-| :----------:  |
+| :----------:  | --- |
 | 5 | The initial post meets the minimum requirements, includes insightful observations. The response post engages with another student's ideas. |
 | 3 | The initial post meets the minimum requirements, includes insightful observations. The response post is missing or incomplete. |
 | 0 | Both the initial and response posts are missing or incomplete.  |

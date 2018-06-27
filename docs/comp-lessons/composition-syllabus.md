@@ -1,19 +1,22 @@
-## University of Central Florida School of Performing Arts
+---
+title: Music Composition Syllabus, 2017-18
+pageClass: hide-title
+---
 
 # Music Composition Syllabus, 2017-18
 
-### MUC3105C, 4106C, 5112, 6251
+<span style="font-size:1.4em; font-weight: bold">MUC3105C, 4106C, 5112, 6251</span>
 
-Instructor: Dr. David MacDonald
-Phone (mobile): 314-610-2939
-Email: David.MacDonald@ucf.edu
-Office: PAC M230
+Instructor: Dr. David MacDonald  
+Phone (mobile): 314-610-2939  
+Email: David.MacDonald@ucf.edu  
+Office: PAC M230  
 
-#### Description
+## Description
 
 Over several semesters (Composition III-IV for undergraduate students, Composition V-VI for graduate students), composers will create a variety of musical compositions according to their own interest and the guidance of the professor. Students will present performances of some of these works. They will also develop a greater understanding of musical repertoire of the 20th and 21st centuries through guided listening, score study, masterclasses, and concert attendance.
 
-#### Objectives
+## Objectives
 
 - develop compositional skills and fluency with a variety of media, including chamber, choral/vocal, large ensemble music, and others according to student interest
 - develop technical facility in writing for various instruments and voices
@@ -22,7 +25,7 @@ Over several semesters (Composition III-IV for undergraduate students, Compositi
 - produce and present professional-quality printed scores and parts
 - practice skills associated with arranging and presenting performances of one’s music, including speaking and writing about it
 
-#### Course Materials
+## Course Materials
 
 There is no required textbook, but a copy of a good orchestration book will come in handy. I recommend Samuel Adler’s _The Study of Orchestration_ or Kent Kennan’s _The Technique of Orchestration_. (UCF Orchestration courses use the Adler.)
 
@@ -32,7 +35,7 @@ Students will work on scores in a variety of formats, depending on the project. 
 
 Additional score study, listening, and reading may be assigned on a case-by-case basis. Students should plan to have access to Spotify (a free account is fine) and the UCF library resources. Students may wish to upgrade to a Spotify premium account to remove ads, get higher-quality audio, and be more independent on the mobile app. The steep [student discount](https://www.spotify.com/us/student/) makes this a very good value for the price.  
 
-##### Recommended Periodicals
+### Recommended Periodicals
 
 In the interest of staying current with news in the field of new music, composers are encouraged to read about new works, recordings, and essays. Here are a few of the most important sources, though there may be more. These may be discussed in weekly studio meetings.
 
@@ -52,28 +55,28 @@ In the interest of staying current with news in the field of new music, composer
 
 See assignment rubrics for further detail.
 
-#### Lesson Attendance
+## Lesson Attendance
 
 Each student will have a one-hour lesson for each week of the term. Lessons may need to be rescheduled for university holidays, schedule conflicts, illness, etc. Lessons must be made up within two weeks of the original date.
 
 Students must arrive at lessons on time. Students arriving late will be penalized two points lesson points after five minutes and four lesson points after ten minutes. Students arriving more than fifteen minutes after their scheduled lesson time will receive a zero for the lesson. Unexcused absences will result in a 0 for the lesson, and these lessons _will not be made up_. When running late or are otherwise unavailable, it is the student's responsibility to to inform the professor as early as possible.
 
-#### Recital Attendance
+## Recital Attendance
 
 Composers are expected to attend all Composition Forums, Area Recitals, and Collide concerts. Other events may be required at the instructor's discretion. The schedule of these events will be announced as far in advance as possible (most at the beginning of the fall semester for the full year). It is your responsibility to arrange your schedule accordingly. Students will only be excused from missing these events for university travel or family emergencies. Work schedule conflicts will not be excused.
 
-#### Juries
+## Juries
 
 As a final evaluation of the compositions completed during the semester, each student composer will be required to present a jury at the conclusion of the semester unless otherwise excused. Composers will be informed of exact jury procedures mid-semester, and they should submit a complete portfolio of the works to be evaluated at least two weeks prior to finals week. Late submissions will not be accepted.
 
-#### Important Message for students receiving financial aid! Please read!
+## Important Message for students receiving financial aid! Please read!
 
 All faculty members are required to document students' academic activity at the beginning of each course. In order to document that you began this course, please complete the assignment “Composition Goals, First Draft” on Webcourses by the end of the day (11:59pm) on Friday of week 1. Failure to do so will result in a delay in the disbursement of your financial aid.
 
-{{../inc/policies.md}}
+!!!include(inc/policies.md)!!!
 
-<div style="float:left; margin-right: 1em;">
-{{../inc/grade_scale.md}}
-</div>
+## Grade Scale
+
+!!!include(inc/grade_scale.md)!!!
 
 **This syllabus is subject to change. All students will be notified promptly when a change is made.**

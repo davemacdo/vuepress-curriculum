@@ -1,4 +1,6 @@
-# Composition Goals
+---
+title: Composition Goals
+---
 
 Plan your compositional projects for the next semester or longer. Strive to create a well-rounded portfolio that achieves your artistic goals. We will discuss this in lessons and refine it throughout the semester and year. Your lesson grades will be determined primarily by your progress toward reaching your goals. When describing new pieces, be as specific as you can be. At minimum, identify the medium (instrumentation) and approximate duration.
 
